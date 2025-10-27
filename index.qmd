@@ -1,0 +1,20 @@
+---
+title: "index"
+author: "Iris Thesmar"
+format:
+  html:
+    toc: true
+    toc_float: true
+    embed-resources: true
+execute: 
+  warning: false
+  message: false
+---
+
+## About me
+
+Student at Umass Amherst, Massachusetts.
+
+![The Admirable Pink Panther (not me but I strive to be like him)](Pink_Panther.png)
+
+[Open Lab 7](https://ood.unity.rc.umass.edu/rnode/gpu048.unity.rc.umass.edu/38199/files/test/Lab%207%20Iris%20Thesmar.html)
